@@ -1,9 +1,94 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "project": [
+    {
+      "id": "les-makowski",
+      "title": "Les Makowski",
+      "category": ["Strony internetowe"],
+      "date": "June 30.2023",
+      "services": ["Projektowanie", "Programowanie", "Wordpress", "Panel CMS"],
+      "link": "/portfolio/les-makowski",
+      "website": "https://gallerymakowskitriart.com",
+      "image": "les-makowski/les-makowski-start.png",
+      "image_phone": "les-makowski/les-makowski-start-phone.png",
+      "description": "Odkryj niezwykłą kolekcję dzieł sztuki stworzoną przez Lesa Makowskiego, która obejmuje nie tylko obrazy na płótnie i tekturze, ale także rzeźby wykonane z gliny oraz różnorodnych materiałów. Jego prace zachwycają różnorodnością technik, głębokim przekazem i wyjątkową estetyką. Od malowideł pełnych ekspresji po delikatne rzeźby, każde dzieło Lesa Makowskiego przenosi widza w niezwykłą podróż przez świat sztuki. Jego pasja i zaangażowanie w każdą tworzona kompozycję sprawiają, że kolekcja ta stanowi niezwykłe doświadczenie dla miłośników sztuki.",
+      "mockup1": "les-makowski/les-makowski-mockup1.png",
+      "mockup2": "les-makowski/les-makowski-mockup2.png",
+      "mockup3": "les-makowski/les-makowski-mockup3.png"
+    },
+    {
+      "id": "abelvær",
+      "title": "Abelvær",
+      "category": ["Strony internetowe"],
+      "date": "March 20.2024",
+      "services": ["Projektowanie", "Programowanie", "Wordpress", "Panel CMS"],
+      "link": "/portfolio/abelvær",
+      "website": "https://abelvaer.boostagency.io",
+      "image": "abelvaer/abelvaer-start.png",
+      "image_phone": "abelvaer/abelvaer-start-phone.png",
+      "description": "Jesteśmy twórcą strony internetowej Abelvær Filetfabrikk, firmy specjalizującej się w filetowaniu oraz dostarczaniu wysokiej jakości produktów rybnych. Nasza praca nad tą stroną stanowi doskonały przykład moich umiejętności w projektowaniu stron internetowych dla firm z branży spożywczej. Abelvær Filetfabrikk to firma z długą historią i bogatym doświadczeniem w produkcji filetów rybnych. ",
+      "mockup1": "abelvaer/abelvaer-mockup1.png",
+      "mockup2": "abelvaer/abelvaer-mockup2.png",
+      "mockup3": "abelvaer/abelvaer-mockup3.png"
+    },
+    {
+      "id": "real-estate",
+      "title": "Real estate",
+      "category": ["Strony internetowe"],
+      "date": "July 05.2023",
+      "services": ["Programowanie", "Projektowanie", "Architektura"],
+      "link": "/portfolio/real-estate",
+      "website": "https://github.com/Mikarrr/Real-estate-search.git",
+      "image": "real-estate/real-estate-start.png",
+      "image_phone": "real-estate/real-estate-start-phone.png",
+      "description": "Nasza aplikacja Wyszukiwarka Nieruchomości to doskonałe narzędzie dla wszystkich poszukujących idealnego miejsca do życia lub inwestycji. Dzięki zaawansowanym funkcjom filtrowania, użytkownicy mogą precyzyjnie dopasować oferty do swoich preferencji metrażu, liczby pomieszczeń i ceny. Dodatkowo, możliwość obejrzenia modelu 3D oraz rzutu 2D apartamentu pozwala na dokładne zapoznanie się z układem przestrzeni przed podjęciem decyzji.",
+      "mockup1": "real-estate/real-estate-mockup1.png",
+      "mockup2": "real-estate/real-estate-mockup2.png",
+      "mockup3": "real-estate/real-estate-mockup3.png"
+    },
+    {
+      "id": "my-blog",
+      "title": "My blog",
+      "category": ["Strony internetowe"],
+      "date": "May 15.2023",
+      "services": ["Programowanie", "Projektowanie", "Architektura"],
+      "link": "/portfolio/my-blog",
+      "website": "https://github.com/Mikarrr/My-blog",
+      "image": "my-blog/my-blog-start.png",
+      "image_phone": "my-blog/my-blog-start-phone.png",
+      "description": "Witaj na naszym blogu poświęconym frontend i backend, dwóm kluczowym elementom tworzenia strony internetowej. Jako twórca, zgłębiasz tajniki SEO, projektowania stron oraz ich efektywnego działania. Dowiedz się, jak optymalizować kod i backend, aby Twoja witryna osiągała najlepsze wyniki w Poznaniu i nie tylko. Przygotuj się na głęboki zanurzenie w świecie programowania webowego i zdobądź niezbędną wiedzę, by tworzyć strony internetowe, które wyróżniają się zarówno pod względem estetyki, jak i funkcjonalności.",
+      "mockup1": "my-blog/my-blog-mockup1.png",
+      "mockup2": "my-blog/my-blog-mockup2.png",
+      "mockup3": "my-blog/my-blog-mockup3.png"
+    },
+    {
+      "id": "properties-for-rent",
+      "title": "Properties for rent",
+      "category": ["Strony internetowe", "Custom kod"],
+      "date": "May 07.2024",
+      "services": ["Programowanie", "Projektowanie", "Architektura"],
+      "link": "/portfolio/properties-for-rent",
+      "website": "",
+      "image": "properties-for-rent/properties-for-rent-start.png",
+      "image_phone": "properties-for-rent/properties-for-rent-start-phone.png",
+      "description": "Nasza wyszukiwarka nieruchomości jest idealnym narzędziem. Dzięki zaawansowanym opcjom filtrowania, takim jak lokalizacja, cena za metr kwadratowy oraz preferencje, jak przyjazne dla zwierząt czy dobra komunikacja, znajdziesz wymarzone miejsce w mgnieniu oka. Nasza platforma integruje kluczowe słowa: projektowanie stron i tworzenie stron, co oznacza, że nasz serwis jest nie tylko funkcjonalny, ale również estetycznie zaprojektowany, zapewniając Ci najwyższą jakość użytkowania. Dzięki temu Twoje poszukiwania stają się jeszcze bardziej satysfakcjonujące i efektywne.",
+      "mockup1": "properties-for-rent/properties-for-rent-mockup1.png",
+      "mockup2": "properties-for-rent/properties-for-rent-mockup2.png",
+      "mockup3": "properties-for-rent/properties-for-rent-mockup3.png"
+    },
+    {
+      "id": "zephyr",
+      "title": "Zephyr data management",
+      "category": ["Projekty loga", "Identyfikacja wizualna"],
+      "date": "May 07.2024",
+      "services": ["Logo", "Projektowanie", "Identyfikacja wizualna"],
+      "link": "/portfolio/zephyr",
+      "website": "",
+      "image": "zephyr/zephyr-mockup1.png",
+      "image_phone": "zephyr/zephyr-mockup1.png",
+      "description": "Zephyr Data Management specjalizuje się w zarządzaniu danymi. Oznacza to, że oferuje szeroki zakres usług związanych z gromadzeniem, przechowywaniem, przetwarzaniem i analizą danych dla swoich klientów. Zephyr pomaga klientom w wykorzystaniu potencjału ich danych, aby uzyskać przewagę konkurencyjną, zwiększyć efektywność operacyjną i podejmować lepsze decyzje biznesowe.",
+      "mockup1": "zephyr/zephyr-mockup1.png",
+      "mockup2": "zephyr/zephyr-mockup2.png",
+      "mockup3": "zephyr/zephyr-mockup3.png"
+    }
+  ]
 }
